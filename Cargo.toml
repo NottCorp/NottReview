@@ -1,0 +1,5 @@
+[workspace]
+members = [
+        "lambdas/*"
+]
+resolver = "2"
